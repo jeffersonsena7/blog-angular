@@ -1,0 +1,40 @@
+.container_small_card {
+  width: 700px;
+  margin-bottom: 15px;
+}
+
+.container_small_card_content {
+  display: flex;
+  flex-direction: row;
+}
+
+.small_card_photo > img{
+  width: 200px;
+  min-width: 200px;
+  margin-right: 20px;
+}
+
+.small_card_title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.small_card_title {
+  display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-decoration: none;
+    cursor: pointer;
+    transition: box-shadow 0.1;
+    color: #202020;
+}
+
+.small_card_title :hover {
+  color: #00d9ff;
+  
+    text-shadow: 0px 0px 10px #00d9ffcc, 0px 0px 3px #00d9ff;
+}
+.container_small_card_separator {
+  margin-top: 50px;
+}

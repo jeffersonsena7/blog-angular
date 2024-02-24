@@ -1,0 +1,21 @@
+.container_articles {
+  margin-top: 30px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.container_lancamento > h1 {
+  margin-bottom: 15px;
+  margin-top: 15px;
+
+  display: flex;
+  justify-content: center;
+}
+
+.container_lancamento > hr {
+  margin-bottom: 15px;
+
+}
+
