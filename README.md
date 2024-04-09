@@ -30,7 +30,7 @@ Este projeto _Blog Angular_, foi feito para mostra para ser modificado do jeito 
 
 ## 🖼️ Imagem do blog
 
-[<img src="../blog-angular/animacaoBlog.gif">]
+![<img width='300' height='150' src="../blog-angular/animacaoBlog.gif">]
 
 ## Veja como o site ficou, ao vivo
 
