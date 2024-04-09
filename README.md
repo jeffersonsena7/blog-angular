@@ -30,11 +30,11 @@ Este projeto _Blog Angular_, foi feito para mostra para ser modificado do jeito 
 
 ## 🖼️ Imagem do blog
 
-![Imagem do site Animes Blog](../blog-angular/docs/animacaoBlog.gif)
+![Imagem do site Animes Blog](../blog-angular/animacaoBlog.gif)
 
 ## Veja como o site ficou, ao vivo
 
-[<img width='120' height='50' src="../blog-angular/docs/Botão-clique-aqui.png">](https://jeffersonsena7.github.io/blog-angular/ "Visitar o site Animes Blog")
+[<img width='120' height='50' src="../blog-angular/Botão-clique-aqui.png">](https://jeffersonsena7.github.io/blog-angular/ "Visitar o site Animes Blog")
 
 ## 📌 Mais informações
 
