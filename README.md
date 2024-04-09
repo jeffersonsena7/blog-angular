@@ -32,7 +32,7 @@ Este projeto _Blog Angular_, foi feito para mostra para ser modificado do jeito 
 
 [<img src='https://github.com/jeffersonsena7/blog-angular/assets/117680218/1fe9e8db-2469-43a5-8f48-7e4b46a94553'>](#)
 
-## Veja como o site ficou, ao vivo
+## Veja como o site ficou ao vivo clicando no botão 
 
 [<img width='120' height='50' src="https://github.com/jeffersonsena7/blog-angular/assets/117680218/fc43bdc9-a035-4ca2-a658-76d26698aea9">](https://jeffersonsena7.github.io/blog-angular/ "Visitar o site Animes Blog")
 
